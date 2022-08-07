@@ -7,7 +7,7 @@ import React from 'react'
  * The below components shows the working example of axios for API calls.
  * Also Material UI is integrated for design.
  */
-function TestingAPI() {
+/*function TestingAPI() {
 
     const [testData, setTestData] = React.useState(undefined);
 
@@ -37,8 +37,9 @@ function TestingAPI() {
 
     )
 }
-
+*/
 export default function Posts() {
     // You can delete testingAPI component and start your assignment.    
-    return <TestingAPI />
+    //return <TestingAPI />
+    
 }
